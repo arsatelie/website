@@ -1,5 +1,5 @@
 ---
-layout: title
+layout: home
 page: ARS ATELIE / CONTACT
 ---
 
