@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Code Context Study
+title: ARS ATELIE
 ---
-
-### ARS ATELIE
 
 [About](about) / [Contact](contact)
 
