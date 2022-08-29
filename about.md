@@ -1,0 +1,7 @@
+Ars Atelie is an interdisciplinary studio based in Prishtina. The studio was founded in 2016.
+
+### Founders 
+- Flaka Zeneli
+- Krenare Juniku
+- Donika Luzhnica
+- Gresa Kastrati

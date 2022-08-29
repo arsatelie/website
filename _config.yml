@@ -1,0 +1,6 @@
+remote_theme: riggraz/no-style-please
+title: Ars Atelie
+# favicon: assets/favicon.ico
+
+theme_config:
+  appearance: light
