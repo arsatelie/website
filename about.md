@@ -10,3 +10,7 @@ Ars Atelie is an interdisciplinary studio based in Prishtina. The studio was fou
 - Krenare Juniku
 - Donika Luzhnica
 - Gresa Kastrati
+
+External Collaborator
+- Lydra Hoxha
+

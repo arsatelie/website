@@ -7,5 +7,5 @@ title: ARS ATELIE
 
 <figure>
   <img src="images/arberia-stairs-2021.jpg" alt="Arberia Stairs">
-  <figcaption>Arberia Stairs, (c) Filippo Romano, 2021<br>Public Space in Prishtina</figcaption>
+  <figcaption>Arberia Stairs, (c) Filippo Romano, 2021</figcaption>
 </figure>
