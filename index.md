@@ -12,6 +12,7 @@ title: ARS ATELIE
   <img src="images/arberia-stairs-2021.jpg" alt="Arberia Stairs">
   <figcaption>Arberia Stairs, (c) Filippo Romano, 2021</figcaption>
 </figure>
+
 <br>
 <br>
 <br>
@@ -20,6 +21,7 @@ title: ARS ATELIE
   <img src="images/02_Yostar.JPG" alt="Yostar - Young Styrian Architecture, Exhibition and Publication, 2018">
   <figcaption>Yostar - Young Styrian Architecture, Exhibition and Publication, 2018</figcaption>
 </figure>
+
 <br>
 <br>
 <br>
