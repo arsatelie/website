@@ -27,4 +27,4 @@ title: ARS ATELIE
 <figure>
   <img src="images/04_Dekorimi.JPG" alt="Light installation 'Celebrate our differences', 2018">
   <figcaption>Light installation "Celebrate our differences" in Prizren, (c) Samir Karahoda, 2018 </figcaption>
-</figure>,
+</figure>
