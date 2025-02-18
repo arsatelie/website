@@ -4,3 +4,6 @@ title: ARS ATELIE
 
 theme_config:
   appearance: light
+
+sass:
+  style: compressed
