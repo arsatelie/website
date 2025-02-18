@@ -6,6 +6,7 @@
 
 html {
   height: 100%;
+  font-size: 18px;
 }
 
 body {
@@ -40,7 +41,7 @@ p {
   margin: 1rem 0;
 }
 
-.w {
+main {
   width: fit-content;
   max-width: 800px;
   margin: 0 auto;
@@ -51,7 +52,7 @@ figcaption {
   color: rgb(99, 99, 99);
   text-align: center;
   padding-top: 0.2rem;
-  font-size: 0.5rem;
+  font-size: 0.8rem;
 }
 
 img {

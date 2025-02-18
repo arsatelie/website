@@ -1,9 +1,0 @@
-remote_theme: riggraz/no-style-please
-title: ARS ATELIE
-# favicon: assets/favicon.ico
-
-theme_config:
-  appearance: light
-
-sass:
-  style: compressed
